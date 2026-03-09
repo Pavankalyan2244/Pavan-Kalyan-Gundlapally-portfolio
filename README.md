@@ -1,16 +1,26 @@
-# My Portfolio Wesbite - Overview 🚀
+# Pavan Kalyan Gundlapally – Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This is my personal portfolio website showcasing my software engineering projects, technical skills, and professional experience.
 
-## Instructions 🛠️
+## Tech Stack
+React, TypeScript, GSAP, Three.js, WebGL, HTML, CSS, JavaScript
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## Features
+- Interactive portfolio UI
+- Projects showcase section
+- Skills and tech stack display
+- Work experience section
+- Resume download option
+- Contact section
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Projects Highlighted
+### Java Workflow Automation Engine
+Backend microservices application built using Java and Spring Boot to orchestrate backend workflows through REST APIs. Implemented multithreading to improve throughput, optimized MySQL queries to reduce latency, containerized using Docker, and deployed on AWS EC2 with centralized logging and monitoring.
 
-![Portfolio-Preview](public/images/preview.png.png)
+### Network Performance Monitoring Platform
+Developed backend services using Node.js, NestJS, Java, and Python to enable real-time system analytics. Built React and NextJS dashboards for monitoring performance metrics and optimized SQL queries for improved response times.
 
-## License
+## Author
+Pavan Kalyan Gundlapally
 
-This project is open source and available under the [MIT License](LICENSE).
+GitHub: https://github.com/Pavankalyan2244
