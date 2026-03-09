@@ -13,6 +13,8 @@ React, TypeScript, GSAP, Three.js, WebGL, HTML, CSS, JavaScript
 - Resume download option
 - Contact section
 
+![Portfolio-Preview](public/images/preview.png.png)
+
 ## Projects Highlighted
 ### Java Workflow Automation Engine
 Backend microservices application built using Java and Spring Boot to orchestrate backend workflows through REST APIs. Implemented multithreading to improve throughput, optimized MySQL queries to reduce latency, containerized using Docker, and deployed on AWS EC2 with centralized logging and monitoring.
