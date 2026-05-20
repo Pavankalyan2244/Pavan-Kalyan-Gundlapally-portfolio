@@ -6,10 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Software Engineer with mid-level experience delivering full-stack solutions using React, NodeJS, Java, and REST APIs. Led 
-development of microservice backends and CI/CD pipelines that cut deployment time by 40% and improved data accuracy by 28%. 
-Experienced in cloud deployments on AWS and Azure and optimizing databases in Agile teams. Seeking to apply this expertise to build 
-reliable, high-performing applications that drive business growth.  
+          Software Engineer with 3+ years of experience developing scalable enterprise applications, backend microservices, and big 
+data solutions using Java, Python, Spring Boot, React, PySpark, Apache Spark, and SQL. Experienced in ETL pipelines, real-time 
+data streaming, cloud platforms, REST APIs, CI/CD automation, performance optimization, and scalable system design across 
+enterprise environments. 
         </p>
       </div>
     </div>
