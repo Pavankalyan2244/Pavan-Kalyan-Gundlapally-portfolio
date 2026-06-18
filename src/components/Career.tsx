@@ -16,12 +16,12 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Engineer</h4>
-                <h5>Morgan Stanley</h5>
+                <h5>Fifth Third Bank</h5>
               </div>
               <h3>2025-26</h3>
             </div>
             <p>
-              Engineered scalable Azure Databricks and PySpark-based data pipelines processing 15TB+ of high-volume financial and mortgage data daily across enterprise banking systems. Migrated legacy ETL and Hadoop workflows to Azure Synapse Analytics and Azure Data Factory, enabling efficient handling of 50TB+ enterprise data workloads while improving scalability and operational performance. Designed optimized dimensional data models and real-time streaming solutions using Spark Streaming and Azure Event Hubs, reducing transaction-processing latency by 25% and improving reporting efficiency by 40%. Additionally, developed backend microservices using Java, Spring Boot, REST APIs, and SQL integrations to support secure, high-availability enterprise applications.
+              Developed and maintained microservices-based applications using Java, Spring Boot, React.js, and RESTful APIs, improving system performance and user experience. Worked with MySQL, PostgreSQL, Hibernate/JPA, and Apache Kafka to build scalable, event-driven solutions for real-time data processing and integration. Deployed containerized applications on AWS using Docker and supported CI/CD pipelines with Jenkins, Git, Maven, and SonarQube to streamline software delivery and operational efficiency.
             </p>
           </div>
           <div className="career-info-box">
